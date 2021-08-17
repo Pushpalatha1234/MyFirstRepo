@@ -1,0 +1,62 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "alex",
+      "lastName": "cary",
+      "email": "alex@gmail.com",
+      "mobile": "9854795612",
+      "course": "B.tech"
+    },
+    {
+      "id": 2,
+      "firstName": "rect",
+      "lastName": "latyg",
+      "email": "rect@gmail.com",
+      "mobile": "1245697894",
+      "course": "b.tech"
+    },
+    {
+      "id": 3,
+      "firstName": "test",
+      "lastName": "alex",
+      "email": "putre@gmail.com",
+      "mobile": "2356987412",
+      "course": "cse"
+    },
+    {
+      "id": 4,
+      "firstName": "chatur",
+      "lastName": "cherry",
+      "email": "cherry@gmail.com",
+      "mobile": "658974123",
+      "course": "cse"
+    },
+    {
+      "id": 5,
+      "firstName": "ammu",
+      "lastName": "sidagam",
+      "email": "ammu@gmail.com",
+      "mobile": "8956231245",
+      "course": "cse"
+    },
+    {
+      "id": 6,
+      "firstName": "tinku",
+      "lastName": "toyut",
+      "email": "tinku@gmail.com",
+      "mobile": "2356897845",
+      "course": "mech"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
